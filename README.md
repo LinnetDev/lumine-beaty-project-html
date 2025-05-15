@@ -1,12 +1,10 @@
 # lumine-beaty-project-html
 Responsive beauty brand landing page built with HTML, CSS &amp; Bootstrap. Created during Dr. Angela Yu’s 2023 Web Dev Course.
 
-✨ Preview
-
-![Screenshot](screenshot.png)
+## 🔗 Live Demo 
+Check out the live version here:
 
 ## Features
-
 - Responsive design for mobile and desktop
 - Clean and elegant layout
 - Custom SVG icons
@@ -14,7 +12,6 @@ Responsive beauty brand landing page built with HTML, CSS &amp; Bootstrap. Creat
 - Semantic HTML structure
 
 ##  Used
-
 - HTML5  
 - CSS3  
 - Bootstrap 5  
